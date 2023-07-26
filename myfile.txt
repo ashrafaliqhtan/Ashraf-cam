@@ -1,0 +1,148 @@
+Date and Time:	2023-07-20 06:39:20.425793
+IP:	185.80.143.155
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 06:39:52.343562
+IP:	185.80.143.155
+User-Agent:	WhatsApp/2.23.13.76 A
+
+Date and Time:	2023-07-20 06:40:38.432876
+IP:	185.80.143.150
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 06:40:40.039045
+IP:	185.80.143.150
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 06:40:55.988768
+IP:	185.80.143.150
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 06:46:41.690319
+IP:	185.80.143.155
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 06:57:19.657382
+IP:	185.80.143.155
+User-Agent:	WhatsApp/2.23.13.76 A
+
+Date and Time:	2023-07-20 06:58:24.146737
+IP:	185.80.143.150
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 07:48:24.749602
+IP:	185.80.143.155
+User-Agent:	OBWhatsApp/2.23.1.76 A
+
+Date and Time:	2023-07-20 07:49:34.700548
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 07:51:00.570945
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 07:53:01.985587
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 07:53:03.221679
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 07:57:29.111690
+IP:	185.80.143.155
+User-Agent:	OBWhatsApp/2.23.1.76 A
+
+Date and Time:	2023-07-20 07:58:34.856373
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-20 08:00:55.899261
+IP:	185.80.143.132
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-21 07:04:35.549192
+IP:	185.80.143.185
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:08:18.335378
+IP:	5.157.51.82
+User-Agent:	WhatsApp/2.23.13.76 A
+
+Date and Time:	2023-07-24 01:11:20.910735
+IP:	5.157.51.82
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:14:14.081334
+IP:	5.157.51.82
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:14:16.912137
+IP:	5.157.51.82
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:17:45.383196
+IP:	5.157.51.82
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:34:03.561351
+IP:	81.4.122.236
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 01:57:04.249949
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:03:46.734714
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:15:27.119078
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:17:18.861036
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:36:17.427987
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:39:54.526276
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:42:54.721920
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-24 02:50:11.402636
+IP:	185.80.143.149
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-25 23:44:47.191603
+IP:	109.200.178.9
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-25 23:47:05.887870
+IP:	109.200.178.9
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-26 02:13:22.424171
+IP:	185.80.143.157
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-26 02:13:30.390800
+IP:	185.80.143.157
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-26 02:13:30.395348
+IP:	185.80.143.157
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+Date and Time:	2023-07-26 02:13:46.004393
+IP:	185.80.143.157
+User-Agent:	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+

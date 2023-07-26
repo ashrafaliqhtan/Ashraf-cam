@@ -35,7 +35,7 @@ try:
 
 
     # banner 
-    result = pyfiglet.figlet_format("Z-CAM")
+    result = pyfiglet.figlet_format("ASHRAF-CAM")
     print(f"{bcolors.OKBLUE}{result}{bcolors.ENDC}")
     print(f"\t\t\t {bcolors.BOLD}Github: @sankethj{bcolors.ENDC}")
     print("")
@@ -84,7 +84,7 @@ try:
 
         @bot.message_handler(commands=["start"])
         def send_start_message(msg):
-            bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_ETF for more..... JOIN: https://youtube.com/channel/UCJnx0yDhcTLWM3ZrAtSvaIw")
+            bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_ETF for more..... JOIN: https://youtube.com/@digital_Migrant?si=DfyjWO-_72ZxFykV")
             global user_id
             user_id = msg.chat.id
 

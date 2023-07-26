@@ -1,3 +1,3 @@
-API_KEY = "xxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-BITLY_ACCESS_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-ngrok_auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+API_KEY = "5565601488:AAHJ7Tv5FbfmwS3gioKH9wD9mpbuDx6fBs4"
+BITLY_ACCESS_TOKEN = "46efcd1120534d83882de8e260d9da5b13ce537b"
+ngrok_auth_token = "2SomdQRDSXhj2pxyx1ykqkImxfR_5cvMGsZuAcv6medQx6LFd"
