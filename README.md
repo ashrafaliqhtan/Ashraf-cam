@@ -1,4 +1,4 @@
-# ZCam
+# ashrafcam
 Hack webcam using python by sending malicious link.
 
 <p align="center">
@@ -87,13 +87,10 @@ Hack webcam using python by sending malicious link.
 <br></br>
 
 ## YOUTUBE :
-[![YOUTUBE](/Images/imageonline-co-logoadded.png)](https://youtu.be/tMtVHLnd8XE)
-* [Old video](https://www.youtube.com/embed/oy1LLH7Wt_4)
+[![YOUTUBE](/Images/imageonline-co-logoadded.png)]([https://youtu.be/tMtVHLnd8XE](https://youtube.com/@digital_Migrant?si=L6sypzL1eyPPr1XP))
 
 ## CONTACT :
-[![Telegram](https://img.shields.io/badge/TELEGRAM-Team_ETF-blue?style=for-the-badge&logo=telegram)](https://t.me/Team_ETF)
-[![Twitter](https://img.shields.io/badge/TWITTER-SANKETH-blue?style=for-the-badge&logo=twitter)](https://twitter.com/SankethZ4N)
-<a href="https://www.youtube.com/channel/UCJnx0yDhcTLWM3ZrAtSvaIw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Team ETF-blue?style=for-the-badge&logo=Youtube"></a>
+[![Telegram]
 
 ## REFERENCES :
 - [Musa](https://stackoverflow.com/users/1353011/musa) 
