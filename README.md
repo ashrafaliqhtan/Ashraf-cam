@@ -2,7 +2,7 @@
 Hack webcam using python by sending malicious link.
 
 <p align="center">
-<a href="https://github.com/sankethj/z-cam/"><img title="Tool" src="https://img.shields.io/badge/Tool-ZCam-green.svg?style=for-the-badge"></a>
+<a href="(https://github.com/ashrafaliqhtan/Ashraf-cam.git)"><img title="Tool" src="https://img.shields.io/badge/Tool-ZCam-green.svg?style=for-the-badge"></a>
 <a><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=for-the-badge"></a>
 <a><img title="Maintainence" src="https://img.shields.io/badge/Maintenance-Yes-green.svg?style=for-the-badge"></a>
 </p>
@@ -28,7 +28,7 @@ Hack webcam using python by sending malicious link.
 ## INSTALLATION for TERMINAL:
 * Install any [Python 3.x](https://docs.python-guide.org/starting/install3/linux/) version
 * Make sure you are using **pip** of Python3, to check `pip --version`
-* `git clone https://github.com/sankethj/z-cam`
+* `git clone https://github.com/ashrafaliqhtan/Ashraf-cam.git`
 * `pip install -r requirements.txt`
 * For detailed explanation check on [blogger](https://zansecurity.blogspot.com/2022/02/the-first-python-compatible-camera.html)
 
