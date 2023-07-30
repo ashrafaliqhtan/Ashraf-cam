@@ -26,11 +26,29 @@ Hack webcam using python by sending malicious link.
 * Termux
 
 ## INSTALLATION for TERMINAL:
-* Install any [Python 3.x](https://docs.python-guide.org/starting/install3/linux/) version
-* Make sure you are using **pip** of Python3, to check `pip --version`
-* `git clone https://github.com/ashrafaliqhtan/Ashraf-cam.git`
-* `pip install -r requirements.txt`
-* For detailed explanation check on [blogger](https://zansecurity.blogspot.com/2022/02/the-first-python-compatible-camera.html)
+# installation
+
+apt update -y
+
+apt upgrade -y
+
+apt install git -y
+
+pkg install python
+
+pkg install python2 -y
+pkg install git
+pip install requests
+pip install setuptools
+pip2 install mechanize
+
+git clone https://github.com/ashrafaliqhtan/Ashraf-cam.git
+
+cd Ashraf-cam
+
+pip install -r requirements.txt
+
+python3 zbot.py
 
 ## INSTALLATION for HEROKU: (beta testing)
 * `Heroku version of script is still under test. You can work on it if you like. I'll inform when its up.`
